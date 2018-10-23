@@ -1,0 +1,9 @@
+D:\Newshore\Services\ServiceMonitor\ServiceMonitorStatus\bin\Debug\ServiceMonitorStatus.exe.config
+D:\Newshore\Services\ServiceMonitor\ServiceMonitorStatus\bin\Debug\ServiceMonitorStatus.exe
+D:\Newshore\Services\ServiceMonitor\ServiceMonitorStatus\bin\Debug\ServiceMonitorStatus.pdb
+D:\Newshore\Services\ServiceMonitor\ServiceMonitorStatus\obj\Debug\ServiceMonitorStatus.csprojAssemblyReference.cache
+D:\Newshore\Services\ServiceMonitor\ServiceMonitorStatus\obj\Debug\ServiceMonitorStatus.ServiceMonitor.resources
+D:\Newshore\Services\ServiceMonitor\ServiceMonitorStatus\obj\Debug\ServiceMonitorStatus.csproj.GenerateResource.cache
+D:\Newshore\Services\ServiceMonitor\ServiceMonitorStatus\obj\Debug\ServiceMonitorStatus.csproj.CoreCompileInputs.cache
+D:\Newshore\Services\ServiceMonitor\ServiceMonitorStatus\obj\Debug\ServiceMonitorStatus.exe
+D:\Newshore\Services\ServiceMonitor\ServiceMonitorStatus\obj\Debug\ServiceMonitorStatus.pdb
