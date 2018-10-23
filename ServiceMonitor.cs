@@ -27,10 +27,10 @@ namespace ServiceMonitorStatus
 
         internal void StartedService()
         {
-            _serviceSystem = ServiceController.GetServices().ToList();
-            _servicesControl = new List<ServiceUp>();
-            string[] serviceNames = System.Configuration.ConfigurationManager.AppSettings["ServiceSupport"].ToString()?.Split(',');
             Task.Factory.StartNew(() => {
+                _serviceSystem = ServiceController.GetServices().ToList();
+                _servicesControl = new List<ServiceUp>();
+                string[] serviceNames = System.Configuration.ConfigurationManager.AppSettings["ServiceSupport"].ToString()?.Split(',');
                 serviceNames.ToList().ForEach(it => {
                     AddService(it);
                 });
